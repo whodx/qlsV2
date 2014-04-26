@@ -1,7 +1,7 @@
 {
   "name": "ql-stats",
   "preferGlobal": false,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "rulex <rulex@anvianet.fi>",
   "description": "Collects game stats from quakelive.com",
   "contributors": [],
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rulex/ql-stats.git"
+    "url": "https://github.com/whodx/qlsV2.git"
   },
   "keywords": [
     "quake",
