@@ -1,0 +1,10 @@
+QL-Stats Express 4.1 Update
+===========================
+
+Upgraded Express 3.x to 4.1.x
+Logging now uses morgan and compress to compression (as per express4 removed all middleware)
+Merged all changes updated to 20:00 hours 25th April 2014.
+Edited qlstats.sql slightly to fix bug with harvester gametype. (alt solution is to hack the image for it.
+Added blank cache.json
+Updated Readme file.
+Updated to use cluster.js for npm start
